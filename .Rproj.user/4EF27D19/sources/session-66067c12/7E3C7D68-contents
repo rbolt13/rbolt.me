@@ -1,0 +1,4 @@
+/.quarto/
+
+# R Environment Variables
+.Renviron

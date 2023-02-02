@@ -1,0 +1,32 @@
+{
+    "id": "C45D28C5",
+    "path": "~/Desktop/2023/rbolt.me/posts/2021_09_20_API's-and-tidycensus/index.qmd",
+    "project_path": "posts/2021_09_20_API's-and-tidycensus/index.qmd",
+    "type": "quarto_markdown",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1675288565189.0,
+    "source_on_save": false,
+    "relative_order": 11,
+    "properties": {
+        "rmdVisualMode": "false",
+        "rmdVisualWrapConfigured": "true",
+        "source_window_id": "",
+        "Source": "Source",
+        "docOutlineVisible": "1",
+        "cursorPosition": "35,19",
+        "scrollLine": "31",
+        "rmdVisualModeLocation": "2:0",
+        "rmdVisualCollapsedChunks": "",
+        "last_setup_crc32": ""
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1675363399,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1675363399405,
+    "read_only": false,
+    "read_only_alternatives": []
+}

@@ -1,0 +1,9 @@
+"0","#| echo: false"
+"0","#| output: false"
+"0","here::i_am(""rbolt.me/posts/2021_07_19_quiz-1/index.qmd"") "
+"2","here() starts at /Users/randi/Desktop/2023
+"
+"0","knitr::opts_chunk$set(error=FALSE,"
+"0","                      message= FALSE,"
+"0","                      warning=FALSE,"
+"0","                      echo=FALSE)"

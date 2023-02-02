@@ -1,0 +1,17 @@
+---
+comments: false
+---
+
+<html>
+  
+<body>
+    <center>
+        <object data=
+"../resume/01_2023_Randi-Bolt-Resume.pdf"
+                width="1050" 
+                height="1200"> 
+        </object>
+    </center>
+</body>
+  
+</html>
